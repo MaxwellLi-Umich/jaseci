@@ -68,3 +68,5 @@ walker load_model {
     can bi_enc.load_model;
     bi_enc.load_model(model_path);
 }
+
+
